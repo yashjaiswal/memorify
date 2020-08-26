@@ -1,0 +1,23 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  cursor: pointer;
+}
+.grid-item {
+  border: 1px solid black;
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.howtoplay {
+  font-size: 25px;
+}
+
+.buttonwrapper{
+  text-align: center;
+}
+
+.congratswrapper{
+  text-align: center;
+}
